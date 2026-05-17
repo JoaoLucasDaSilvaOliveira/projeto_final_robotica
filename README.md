@@ -62,7 +62,7 @@ exemplo, dois bipes curtos).
 	- Atualiza portaRFID/porta_status para que a central saiba se a porta realmente
 abriu/fechou após a liberação.
 
-###Circuito B: Estação Central de Autorização RFID
+### Circuito B: Estação Central de Autorização RFID
 - Objetivo: Receber os IDs dos cartões lidos nas portas, verificar se estão em uma lista de usuários autorizados e responder com liberação ou negação, além de manter um log básico.
 - Sensores:
 	- (Opcional) Botões para:
