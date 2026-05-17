@@ -1,0 +1,5 @@
+{
+  "sketch": "Circuito A - Estação Porta RFID/sketch/sketch.ino",
+  "board": "esp32:esp32:esp32",
+  "output": "Circuito A - Estação Porta RFID"
+}
